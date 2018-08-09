@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# custom
+config.sandbox3.py
+config.s601sas10.py
