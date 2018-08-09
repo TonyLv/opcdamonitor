@@ -43,4 +43,4 @@ Known Issues
 ============
 
 # v0.1
-Log com problemas quando a opção output/to_file está ativada
+Problema com o log para arquivos quando a opção output/to_file está ativada
